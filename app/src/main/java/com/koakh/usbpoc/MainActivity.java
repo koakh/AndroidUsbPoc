@@ -55,7 +55,7 @@ public class MainActivity extends ActionBarActivity {
   ViewPager mViewPager;
 
   /**
-   * Broadcast Receiver
+   * Broadcast Receiver.
    */
   private static final String ACTION_USB_PERMISSION = "com.android.example.USB_PERMISSION";
 
