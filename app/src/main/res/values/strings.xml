@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">USBPoc</string>
+  <string name="title_section1">Section 1</string>
+  <string name="title_section2">Section 2</string>
+  <string name="title_section3">Section 3</string>
+  <string name="hello_world">Hello world!</string>
+
+  <string name="action_settings">Settings</string>
+  <string name="action_request_permission">Request Permission</string>
+  <string name="action_open_accessory">Open Accessory</string>
+  <string name="action_get_device_list">Get Device List</string>
+
+  <string name="button_label_1">Urgências</string>
+  <string name="button_label_2">Ortopedia</string>
+  <string name="button_label_3">Clinica Geral</string>
+  <string name="button_label_4">Osteopatia</string>
+
+</resources>

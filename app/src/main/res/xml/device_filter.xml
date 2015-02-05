@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <usb-device
+    vendor-id="1d6b"
+    product-id="07d1" />
+
+  <!--/dev/bus/usb/002/001, ProductId: 3, VendorId: 7531-->
+  <!--/dev/bus/usb/001/002, ProductId: 85, VendorId: 1137 TESTE OK With PosPrinterDriver.com-->
+  <!--/dev/bus/usb/001/001, ProductId: 2, VendorId: 7531-->
+
+  <usb-device
+    vendor-id="7531"
+    product-id="3" />
+  <usb-device
+    vendor-id="1137"
+    product-id="85" />
+  <usb-device
+    vendor-id="1d6b"
+    product-id="2" />
+
+</resources>
